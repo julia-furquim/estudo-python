@@ -36,13 +36,13 @@ NOME_VALIDO = len(nome) >= 3
 if NOME_VALIDO:
     print('Nome válido')
 else:
-     print('Nome deve ter pelo menos 3 caracteres')
+    print('Nome deve ter pelo menos 3 caracteres')
 
 # not
 if not NOME_INVALIDO:
     print('Nome válido')
 else:
-     print('Nome deve ter pelo menos 3 caracteres')
+    print('Nome deve ter pelo menos 3 caracteres')
     
 #####################################################
 
