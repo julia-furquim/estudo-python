@@ -116,4 +116,4 @@ if NOTA1_VALIDA and NOTA2_VALIDA:
     else:
         print('Reprovado')
 else:
-        print('Notas inválidas')
+    print('Notas inválidas')
