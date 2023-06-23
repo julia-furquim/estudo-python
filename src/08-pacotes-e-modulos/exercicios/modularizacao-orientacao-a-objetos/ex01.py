@@ -1,3 +1,5 @@
+""" Modularização do exercício 1 de orientação a obejtos """
+
 from classes import aluno
 
 aluno1 = aluno.Aluno.from_string('SP0101,João da Silva,joao@gmail.com')
